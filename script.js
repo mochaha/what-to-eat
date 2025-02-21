@@ -15,7 +15,7 @@ const gifs = [
 const notes = [
   "Pls choose again (ᵕ—ᴗ—)",
   "Are you S U R E? (¬`‸´¬)",
-  "Think again bro ( ◡̀_◡́)ᕤ",
+  "Try again bro ( ◡̀_◡́)ᕤ",
 ];
 
 // ramen btn clicked
